@@ -1,0 +1,2 @@
+;;; -*- no-byte-compile: t -*-
+(define-package "pdf-view-restore" "20190423.1625" "Support for opening last known pdf position in pdfview mode" '((pdf-tools "0.90") (emacs "26.0")) :commit "12d9734d2133dead548497193016c86ab28e9477" :keywords '("files" "convenience") :authors '(("Kevin Kim" . "kevinkim1991@gmail.com")) :maintainer '("Kevin Kim" . "kevinkim1991@gmail.com") :url "https://github.com/007kevin/pdf-view-restore")

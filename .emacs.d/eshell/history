@@ -1,0 +1,15 @@
+ls
+pwd
+scala
+cd
+cd playground/scala/
+ls
+md pins1st
+mkdir pins1st
+cd pins1st/
+ls
+ls
+scala hello.scala 
+ls
+scala
+scala
